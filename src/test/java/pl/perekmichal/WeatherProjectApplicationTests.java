@@ -1,4 +1,4 @@
-package pl.perekmichal.weatherProject;
+package pl.perekmichal;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
